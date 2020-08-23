@@ -1,0 +1,2 @@
+JavaScript
+O ponto de entrada principal para a documentação básica do JavaScript no MDN - é aqui que você encontrará extensos documentos de referência em todos os aspectos do JavaScript e alguns tutoriais avançados destinados a JavaScripters experientes.
